@@ -27,9 +27,9 @@ if response.status_code == 200:
 
     # Create RSS feed
     fg = FeedGenerator()
-    fg.title('Menu for the week')
+    fg.title('Weekmenu')
     fg.link(href=url, rel='alternate')
-    fg.description('Menu for the week')
+    fg.description('Weekmenu De Parkschool Melle')
 
     # Get current date
     current_date_obj = datetime.now()
