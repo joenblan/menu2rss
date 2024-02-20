@@ -5,7 +5,7 @@ import locale
 from feedgen.feed import FeedGenerator
 
 # Set the locale to Dutch
-locale.setlocale(locale.LC_TIME, 'nl_NL')
+locale.setlocale(locale.LC_TIME, 'nl_NL.UTF-8')
 
 # Get the current date and format it as "day month year" (e.g., "29 januari 2024")
 current_date = datetime.now().strftime("%d %B %Y").lower()
