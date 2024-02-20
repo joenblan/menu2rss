@@ -3,6 +3,7 @@ name: Daily RSS Update
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at midnight every day
+  workflow_dispatch: # Manual trigger option
 
 jobs:
   update_rss:
