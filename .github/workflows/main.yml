@@ -9,6 +9,8 @@ jobs:
   update_rss:
     runs-on: ubuntu-latest
     steps:
+      - name: Install Dutch locale
+        run: sudo apt-get install -y language-pack-nl
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
