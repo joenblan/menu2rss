@@ -6,7 +6,7 @@
     <description>Weekmenu De Parkschool Melle</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 00:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:58:40 +0000</lastBuildDate>
     <item>
       <title>dinsdag, 28 mei 2024</title>
       <link>https://order.hanssens.be/menu/C32A/GBS-Melle-De-Parkschool</link>
@@ -25,13 +25,6 @@ Kippennootjes
 Gevogeltesaus
 Appelmoes
 Gestoomde aardappelen
-</description>
-    </item>
-    <item>
-      <title>vrijdag, 24 mei 2024</title>
-      <link>https://order.hanssens.be/menu/C32A/GBS-Melle-De-Parkschool</link>
-      <description>Tomatengroentesoep
-Lasagne
 </description>
     </item>
   </channel>
