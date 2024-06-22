@@ -6,7 +6,7 @@
     <description>Weekmenu De Parkschool Melle</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 01:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 01:00:58 +0000</lastBuildDate>
     <item>
       <title>dinsdag, 25 juni 2024</title>
       <link>https://order.hanssens.be/menu/C32A/GBS-Melle-De-Parkschool</link>
@@ -20,15 +20,6 @@ Lasagne
       <description>Preisoep
 Vissticks
 Wortelstamppot
-</description>
-    </item>
-    <item>
-      <title>vrijdag, 21 juni 2024</title>
-      <link>https://order.hanssens.be/menu/C32A/GBS-Melle-De-Parkschool</link>
-      <description>Erwtensoep
-BBQ-worst
-Provençaalse mix
-Trivelli
 </description>
     </item>
   </channel>
